@@ -1,4 +1,4 @@
-first_number = input("choose a number between 1 - 20 :")
+first_number = input("choose a number :")
 
 first_number = int(first_number)
 number = first_number
@@ -64,3 +64,4 @@ print("            ")
 input('Thank you for your support')
 print('            ')
 input('goodbye')
+
